@@ -26,7 +26,7 @@ Then run the following command-
 ```bash
 streamlit run app.py
 ```
-After running the command, if there is no error, open the generated localholst link in browser to use the application.
+After running the command, if there is no error, open the generated localhost link in browser to use the application.
 
 
 ## Credits
